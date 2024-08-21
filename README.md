@@ -18,6 +18,7 @@ git clone https://github.com/saibhanus/todo-app.git
 npm install 
 ## Start the Development server
 npm run dev
-Contact
+
+## Contact
 If you have any questions or suggestions, feel free to reach out to me at saibhanush2@gmail.com .
 
